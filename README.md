@@ -2,6 +2,8 @@
 
 Dribbble design Shot: https://dribbble.com/shots/25167466-Personal-Finance-Tracker-Centsible
 
+![mockup](mockup.jpg)
+
 UI prototype for a web based budget tracker using Figma
 
 **Tech Used** 
