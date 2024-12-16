@@ -1,4 +1,4 @@
-# Centsible - Web based personal finance tracker app UI/UX prototype 💸
+# Centsible - Personal Finance Tracker UI Prototype 💸
 
 Dribbble design Shot: https://dribbble.com/shots/25167466-Personal-Finance-Tracker-Centsible
 
