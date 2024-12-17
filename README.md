@@ -26,12 +26,14 @@ A personal finance tracker that allows users to track their spending and income.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-### **Demo of the Prototype** ⬇️
-
+![mockup](Transactions_dark.jpg)
+![mockup](End_poster.png)
 
 ### Product Landing page
 
 Dribbble design shot : https://dribbble.com/shots/25253473-Landing-Page-Hero-for-Personal-Finance-Tracker-Centsible
+
+![mockup](landing_showcase.png)
 
 ---
 Made with ❤️ by [Subhanu](https://github.com/subhanu-dev)
