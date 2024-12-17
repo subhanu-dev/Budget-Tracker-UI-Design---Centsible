@@ -10,7 +10,7 @@ Centsible ➡️ The Sensible Way to Track Your Finances.
 
 A personal finance tracker that allows users to track their spending and income. Track expenses, income, see insights broken down by category, dark mode and more. The goal was to create a minimal yet vibrant interface that makes managing finances feel effortless and accessible.
 
-Features:
+**Features**
 
   📊 Expense tracking for different categories <br>
   💸 Set alerts and see your cash flow <br>
